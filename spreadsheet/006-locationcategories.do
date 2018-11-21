@@ -1,0 +1,3 @@
+*Location Categories
+
+*Chordoma location
